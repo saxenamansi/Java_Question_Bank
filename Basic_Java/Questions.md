@@ -9,22 +9,22 @@
     
     ![image](https://user-images.githubusercontent.com/60805302/128706834-e3433718-ba74-4358-b45c-6651b5889dce.png)
 
-7. HCF and LCM of given numbers. 
-8. Ask the user to enter the marks of a student in the below order nd calculate the metrics according to the below table.
-    Maths, M
-    Physics, P
-    Chemistry, C
-    English, E
-    Computer Science, CS
-
-**Metric Formula**
-Overall Average (OA) : Sum of all the marks / total number of subjects
-Engineering Average (EA) Sum of (M * 2), P and C / 4
-Computer Science Average (CSA) : CS
-
-Print the output according to the below table
-If OA > 75 and EA > CSA : Probable Mech, Civil, EEE, ECE candidate
-If OA > 75 and CSA > EA : Probable CSE, IT, IS candidate
-If OA < 75 and CSA > EA : Probable BCA candidate
-If OA < 75 and CSA > EA : Probable BSc candidate 
+7. ***HCF and LCM*** : HCF and LCM of given numbers. 
+8. ***Grades of Students*** : Ask the user to enter the marks of a student in the below order and calculate the metrics according to the below table. <br>
+    Maths, M<br>
+    Physics, P<br>
+    Chemistry, C<br>
+    English, E<br>
+    Computer Science, CS<br>
+<br><br>
+**Metric Formula**<br>
+Overall Average (OA) : Sum of all the marks / total number of subjects<br>
+Engineering Average (EA) Sum of (M * 2), P and C / 4<br>
+Computer Science Average (CSA) : CS<br>
+<br><br>
+Print the output according to the below table<br>
+If OA > 75 and EA > CSA : Probable Mech, Civil, EEE, ECE candidate<br>
+If OA > 75 and CSA > EA : Probable CSE, IT, IS candidate<br>
+If OA < 75 and CSA > EA : Probable BCA candidate<br>
+If OA < 75 and CSA > EA : Probable BSc candidate <br>
 
