@@ -1,4 +1,4 @@
-package javalab2;
+package basicjava;
 import java.util.Scanner;
 public class JavaLab2 {
     public static void main(String[] args) {
