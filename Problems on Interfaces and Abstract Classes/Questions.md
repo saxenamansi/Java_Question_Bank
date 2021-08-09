@@ -10,4 +10,11 @@
 
 5. ***Summer Vacation Question*** : Make a class Vacation with necessary attributes and methods to set and print the attributes. Extend this class using inheritance to define a class Summer Vacation. Override the methods defined in the parent class, Vacation. 
 
+6. ***Sum and Average Question*** : Define an interface Numbers which declares a method Process that takes two values as parameters. Define 2 classes that implement Interface - Sum, where the method Process is defined as the sum of two input numbers, and Average, where the method Process is defined as the Average of two input numbers.
+
+7. ***TestDetails Question*** : 
+8. ***GCD Question*** : 
+9. ***Jio Charges Question*** :
+10. ***Class Highest and Average Marks*** : 
+
 
