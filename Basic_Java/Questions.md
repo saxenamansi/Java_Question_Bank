@@ -6,19 +6,25 @@
 4. ***Fibonacci Numbers*** : Program to find the fibonacci series.
 5. ***Prime Number*** : Program to find the prime number in a given range. 
 6. ***Star Patterns*** : Print the following patterns by finding the table values of stars and spaces.
+    
+    ![image](https://user-images.githubusercontent.com/60805302/128706834-e3433718-ba74-4358-b45c-6651b5889dce.png)
 
-a) *
-   **
-   ***
-   ****
-   
-b) ****
-   ***
-   **
-   *
-   
-c) *   *
-   ** **
-   *****
-   ** **
-   *   *
+7. HCF and LCM of given numbers. 
+8. Ask the user to enter the marks of a student in the below order nd calculate the metrics according to the below table.
+    Maths, M
+    Physics, P
+    Chemistry, C
+    English, E
+    Computer Science, CS
+
+**Metric Formula**
+Overall Average (OA) : Sum of all the marks / total number of subjects
+Engineering Average (EA) Sum of (M * 2), P and C / 4
+Computer Science Average (CSA) : CS
+
+Print the output according to the below table
+If OA > 75 and EA > CSA : Probable Mech, Civil, EEE, ECE candidate
+If OA > 75 and CSA > EA : Probable CSE, IT, IS candidate
+If OA < 75 and CSA > EA : Probable BCA candidate
+If OA < 75 and CSA > EA : Probable BSc candidate 
+
