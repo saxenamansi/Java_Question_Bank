@@ -16,12 +16,12 @@
     Chemistry, C<br>
     English, E<br>
     Computer Science, CS<br>
-<br><br>
+<br>
 **Metric Formula**<br>
 Overall Average (OA) : Sum of all the marks / total number of subjects<br>
 Engineering Average (EA) Sum of (M * 2), P and C / 4<br>
 Computer Science Average (CSA) : CS<br>
-<br><br>
+<br>
 Print the output according to the below table<br>
 If OA > 75 and EA > CSA : Probable Mech, Civil, EEE, ECE candidate<br>
 If OA > 75 and CSA > EA : Probable CSE, IT, IS candidate<br>
