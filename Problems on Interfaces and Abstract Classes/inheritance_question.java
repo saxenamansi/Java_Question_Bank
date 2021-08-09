@@ -1,4 +1,4 @@
-package module2;
+package inheritancequestion;
 import java.util.Scanner;
 interface Exam{
     public float Pass();
@@ -32,7 +32,7 @@ class Result implements Exam, Classify{
         return null;
     }
 }
-public class lab_inheritance {
+public class inheritance_question {
    public static void main(String[] args){
        Result obj = new Result();
        float total = obj.Pass();
