@@ -6,12 +6,10 @@
 
 3. ***Abstract Classes Question*** : Write an abstract class special with an abstract method double Process (double P,double R). Create a subclass Discount and implement the Process() method with the following formula: net=P- P\*R/100. Return the Process() method with the following formula: total=P+P\*R/100. Return the total.
 
-4. ***Book Class Question*** : Develop a java program with a class named Books with data members like BookName, booktype(c for CSE, e for ECE, p for Physics, g for General),publisher, ISBN number and price. Define a method to display the book details based on providing BookName, also define a method which takes book type and price and display book details which has price equal to or above than the provided value for the given book type.
+4. ***Bank Account Question*** : Create an abstract class Account that has a balance attribute, a method to ask enquiries, and 2 abstract methods to credit and debit money from the account balance. Extend 2 classes, SavingsAccount and CheckingAccount and define the abstract methods. Add an attribute interest rate and a method to calculate the interest in the SavingsAccount class, while in CheckingAccount, add an attibute fee, that is deducted from the balance when money is credited or debited from the account. 
 
-5. ***Bank Account Question*** : Create an abstract class Account that has a balance attribute, a method to ask enquiries, and 2 abstract methods to credit and debit money from the account balance. Extend 2 classes, SavingsAccount and CheckingAccount and define the abstract methods. Add an attribute interest rate and a method to calculate the interest in the SavingsAccount class, while in CheckingAccount, add an attibute fee, that is deducted from the balance when money is credited or debited from the account. 
+5. ***Summer Vacation Question*** : Make a class Vacation with necessary attributes and methods to set and print the attributes. Extend this class using inheritance to define a class Summer Vacation. Override the methods defined in the parent class, Vacation. 
 
-6. ***Summer Vacation Question*** : Make a class Vacation with necessary attributes and methods to set and print the attributes. Extend this class using inheritance to define a class Summer Vacation. Override the methods defined in the parent class, Vacation. 
-
-7. 
+6. 
 
 
