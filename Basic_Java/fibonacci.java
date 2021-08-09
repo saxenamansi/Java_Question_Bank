@@ -1,26 +1,25 @@
 package basicjava;
 import java.util.Scanner;
-public class prime {
+public class fibonacci {
+    public static int fib(int n){
+        if(n==0 || n==1)
+            return n;
+        else
+            return fib(n-1)+fib(n-2);
+    }
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
-        System.out.print("Enter starting range: ");
-        int start = s.nextInt();
-        System.out.print("Enter ending range: ");
-        int end = s.nextInt();
-        System.out.print("The prime numbers between " +
-                start + " and " + end + " are: ");
-        for (int i=start; i<=end; i++){
-            boolean prime = true;
-            for (int j=2; j<=i/2; j++){
-                if (i%j == 0){
-                    prime = false;
-                    break;
-                }   
-            }
-            if(prime){
-                System.out.print(i + " ");
-            }
+        System.out.print("Enter the number: ");
+        int n = s.nextInt();
+        if(n==0 || n==1){
+            System.out.println("The nth term of the fibonacci series"
+                    + " where n is " + n + " : " + 1);
         }
-        System.out.println("\n");
+        else{
+            int f = fib(n);
+            System.out.println("The nth term of the fibonacci series"
+                    + " where n is " + n + " : " + f);
+        }
+        
     }
 }
