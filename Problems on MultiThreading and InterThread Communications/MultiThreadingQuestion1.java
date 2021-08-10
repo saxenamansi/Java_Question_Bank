@@ -35,8 +35,6 @@ class print{
     }
 }public class multithreading1 {
    public static void main(String[] args){
-       System.out.println("Mansi Saxena");
-       System.out.println("18BCE0307");
        print p = new print();
        myThread1 t1 = new myThread1(p);
        myThread2 t2 = new myThread2(p);
