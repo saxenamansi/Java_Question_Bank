@@ -9,4 +9,7 @@
 a) SearchFunction () Takes trainno has input and performs a search with all objects. If found display all variable details of the class like train_no, src, dest, time, traveltime, platformno, traveltype. If not found throw arrayIndexOutofBound exception and handle it. <br>
 b) SortFunction () - Takes the input of sorting type (TM- time based, TN - Train no based). Sort and display the records. If the user enters other than TN or TM input throw arithematic or arrayIndexOutofBound exception and handle it.
 
+4. ***Coloured Pens Questions*** : A pouch contains pens of four different colours- red, orange, white and black. Simulate picking up a pen at random for ten times. If the same coloured pen is picked up more than thrice, throw SameColorPenException and proceed with the simulation once again. After ten valid picks, print the number of pens chosen from each of these colours. Create the SameColorPenException for this program.
+
+
 
