@@ -20,8 +20,7 @@
 9. ***GCD Question*** : In a school, students of all classes from std I to X appear for the MathPremierLeague examination. Define a class MPL which stores the details of the marks scored by each class. It should contain the following 4 data members: Standard, number of students, marks[] array to store the scores of all the students of the class in MPL exam and first mark. Create an array of 4 objects for this class. Define a parameterized constructor which receives the values for the first two data members from the main() method. From within the constructor, read the marks of all students and hence find the first mark. Define a method findBestClass() to display the standard which has secured the highest first mark. Overload this method to display the standard with the highest class average. The marks array should be declared dynamically based on the strength of the class. 
 
 10. ***Jio Charges Question*** : Create a class by name JioCharges with the following members. Instance Members : Customer Name, Number of calls made to Jio, Number of calls made to other services and BillAmount. Write a main class to test the program for an array of objects. Note: Use the following information to calculate the amount to be paid 
-
-![image](https://user-images.githubusercontent.com/60805302/128843640-b1fa2108-3a43-4bf0-8a2a-6de1291e1f7a.png)
+         ![image](https://user-images.githubusercontent.com/60805302/128843640-b1fa2108-3a43-4bf0-8a2a-6de1291e1f7a.png) <br>
 i) number of calls field is declared as private. (Use read and write property to access it) <br>
 ii) A default constructor <br>
 iii) A parameterized constructor functions to initialize the instance members with the values specified by the user. <br>
