@@ -1,5 +1,5 @@
 # Java Question Bank with Solutions: Beginner to Intermediate
-Questions and Solutions to various OOP concepts in Java and more. The topics covered are:
+Want to practice those newly learned Java concepts, but do not have a question bank with solutions? Look no further! The topics covered are:
 
 1. Basic Java Questions
 2. Arrays 
